@@ -1,0 +1,27 @@
+body
+{
+	background-color:black;
+}
+.choix
+{
+	
+	width:197px;
+	height:160px;
+}
+
+#im1
+{
+	border-style: solid;
+    height: 400px;
+    width: 600px;
+}
+#bouton
+{
+	border-radius:10px;
+	
+}
+h1
+{
+	text-align: left;
+	color: white;
+}

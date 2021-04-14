@@ -1,0 +1,15 @@
+{
+  "name": "laboratoire8",
+  "version": "1.0.0",
+  "description": "mon deuxieme projet Node",
+  "main": "projet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thibauld",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
